@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Final</string>
+    <string name="buy">Buy</string>
+    <string name="enterprice">EnterPrice</string>
+    <string name="sell">Sell</string>
+</resources>
